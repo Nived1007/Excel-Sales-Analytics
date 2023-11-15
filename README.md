@@ -6,8 +6,8 @@
   1. Create a <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/74c33fdc0ff2829865f1f2cfa56202762b275638/Customer%20Performance%20Report.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">customer performance report</a>.
   2. Conduct a comprehensive comparison between <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/74c33fdc0ff2829865f1f2cfa56202762b275638/Market%20Performance%20Report.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">market performance and sales targets</a>.
   3. Identify and analyze the <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/74c33fdc0ff2829865f1f2cfa56202762b275638/Top%2010%20products.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">top products based on net sales</a> and <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/74c33fdc0ff2829865f1f2cfa56202762b275638/Top%20products%20based%20on%20qty.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">quantity sold</a>.
-  4. Generate a <a href="#" style="color: #3498db; font-family: 'Arial', sans-serif;">Division-wise Performance Report</a>.
-  5. Analyze and present the <a href="#" style="color: #3498db; font-family: 'Arial', sans-serif;">top 10 countries by sales</a>.
+  4. Generate a <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/Division%20wise%20performance%20report.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Division-wise Performance Report</a>.
+  5. Analyze and present the <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/top%2010%20countries.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">top 10 countries by sales</a>.
 
 - **Purpose of Sales Analytics:**
   - Empower businesses to monitor and evaluate their sales activities and performance.
@@ -23,10 +23,10 @@
 ## Finance Report:
 
 - **Project Objectives:**
-  1. Create Profit and Loss (P&L) reports by <a href="https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Fiscal Year</a> & <a href="https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Months</a>.
-  2. Create Profit and Loss (P&L) reports by <a href="https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Markets</a>.
-  3. Calculate and analyze <a href="#" style="color: #3498db; font-family: 'Arial', sans-serif;">GM% for fiscal quarters</a>.
-  4. Evaluate <a href="#" style="color: #3498db; font-family: 'Arial', sans-serif;">GM% country-wise</a>.
+  1. Create Profit and Loss (P&L) reports by <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/P%26L%20year%20wise.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Fiscal Year</a> 
+  2. Create Profit and Loss (P&L) reports by <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/P%26L.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Markets</a>.
+  3. Calculate and analyze <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/GM%25%20by%20fiscal%20quarter.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Gain Margin % for fiscal quarters</a>.
+  4. Evaluate <a href="https://github.com/Nived1007/Excel-Sales-Analytics/blob/fba5263de5cc72bb04de2cdad7c0984ae7c1a93d/GM%25%20by%20country.pdf" style="color: #3498db; font-family: 'Arial', sans-serif;">Gain Margin % country-wise</a>.
 
 - **Purpose of Sales Analytics:**
   - Evaluation of financial performance.
